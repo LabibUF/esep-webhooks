@@ -1,0 +1,15 @@
+# .NET build files
+**/bin/
+**/obj/
+
+# Visual Studio and VS Code
+.vs/
+.vscode/
+*.user
+
+# AWS credentials and local secrets
+.aws/
+*.pem
+*.key
+.env
+.env.*
